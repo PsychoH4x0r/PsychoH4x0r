@@ -2,7 +2,7 @@
 
 <p align="center">
 <p align="center">
-  <img src="" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=435&lines=CTF+Player;Bug+Bounty+Hunter;Linux+Exploit+Researcher;Cyber+Ops+%2F+Red+Team" alt="Typing SVG" />
 </p>
 <p align="center">
     <img src="assets/cyber-security.gif" alt="hacking" width="400"/>
@@ -17,7 +17,7 @@
 <hr/>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h6a3k0YzFpcXQ2ZWxmMDdiYjk0NzFnN28wOG96NjV5M285azUwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" width="500" style="border-radius: 10px;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Qxb2lweWx2dmw4dzMybGw4N3hydzRtYzN2dm5lbnN4ajNoeHk4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8KefZiJ2ae0VMAmsi/giphy.gif" width="500" style="border-radius: 10px;" />
 </p>
 
 ## 🛠️ About Me
