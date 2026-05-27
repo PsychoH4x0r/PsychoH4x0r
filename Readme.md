@@ -1,62 +1,58 @@
-<h1 align="center">⚡ unknown1337 ⚡</h1>
-
-<p align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=435&lines=CTF+Player;Bug+Bounty+Hunter;Linux+Exploit+Researcher;Cyber+Ops+%2F+Red+Team" alt="Typing SVG" />
-</p>
-<p align="center">
-    <img src="assets/cyber-security.gif" alt="hacking" width="400"/>
+<!-- Basic knowledge badges (Replace these with real badges if desired) -->
+<p>
+  <img src="https://img.shields.io/badge/Security-Research-333?style=flat&labelColor=555" alt="Security Research">
+  <img src="https://img.shields.io/badge/Exploit-Database-333?style=flat&labelColor=555" alt="Exploit Database">
+  <img src="https://img.shields.io/badge/CVE-Database-333?style=flat&labelColor=555" alt="CVE Database">
 </p>
 
-<p align="center">
-    <img src="assets/cyber-security.gif" alt="hacking" width="400" style="border-radius: 10px; box-shadow: 0 0 15px #00ffff;" />
-<p align="center" style="font-size: 1.2em; font-weight: bold; color: #ccc; text-shadow: 0 0 10px #0ff;">
-  Ethical Hacker • Security Researcher • CTF Player
+<h3 align="left">Public Work</h3>
+<ul>
+  <li><strong>Unknown1337 Exploit & CVE Database</strong> &mdash; Centralized web repository for vulnerability research.</li>
+  <li><strong><a href="https://unknown1337.my.id/">unknown1337.my.id</a></strong> &mdash; Live database covering web, network, and system exploitation.</li>
+</ul>
+
+<h3 align="left">Core Knowledge Areas</h3>
+<table>
+  <tr>
+    <td>Web Security</td>
+    <td>Network Penetration Testing</td>
+  </tr>
+  <tr>
+    <td>Privilege Escalation (Linux/Windows)</td>
+    <td>Exploit Development & Analysis</td>
+  </tr>
+  <tr>
+    <td>Common Vulnerabilities and Exposures (CVE)</td>
+    <td>Security Tooling & Automation</td>
+  </tr>
+</table>
+
+<br>
+
+<h3 align="left">Key Projects & Archives</h3>
+
+<h4>Exploit Categories</h4>
+<ul>
+  <li><strong>Web Application:</strong> SQL Injection (Error, Blind, Time, Union), LFI/RFI, XSS, CSRF, SSRF, SSTI, IDOR, File Upload Bypass</li>
+  <li><strong>Remote Code Execution:</strong> Log4Shell, PHP Object Injection, Java Deserialization, CMS-specific (WordPress, Joomla, Drupal)</li>
+  <li><strong>Network & System:</strong> EternalBlue (MS17-010), BlueKeep, Zerologon, PrintNightmare, ProxyLogon, Heartbleed, Shellshock</li>
+  <li><strong>Linux Privilege Escalation:</strong> Dirty Pipe, PwnKit, Sudoedit (Baron Samedit), Capabilities, SUID Binary, Cron Job, Docker Socket</li>
+</ul>
+
+<h4>CVE Database</h4>
+<p>Curated archive of Common Vulnerabilities and Exposures entries with technical details, CVSS scores, and exploit references. Sample CVE coverage includes vulnerabilities in Docker, Python, JBoss, WebLogic, PHP, Kubernetes, Drupal, GitLab, Android, and various Linux distributions.</p>
+
+<h3 align="left">Support & Resources</h3>
+<p>If you utilize the database or find the resources useful, consider supporting the maintenance of the platform to keep it publicly available and up to date.</p>
+<ul>
+  <li>Feedback and vulnerability submissions can be directed via the website.</li>
+  <li>Contributions to improve database accuracy are always under review.</li>
+</ul>
+
+<hr>
+
+<p align="left">
+  <a href="https://unknown1337.my.id/">
+    <img src="https://img.shields.io/badge/Website-unknown1337.my.id-333?style=flat" alt="Website">
+  </a>
 </p>
-
-<hr/>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Qxb2lweWx2dmw4dzMybGw4N3hydzRtYzN2dm5lbnN4ajNoeHk4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d8KefZiJ2ae0VMAmsi/giphy.gif" width="500" style="border-radius: 10px;" />
-</p>
-
-## 🛠️ About Me
-
-- 💻 Passionate in **Penetration Testing**, **Bug Hunting**, and **Exploit Development**.
-- 🔍 Currently exploring **Red Team** operations.
-- 🎯 Specialized in web-app security and automation.
-- 🏆 Active participant in CTF events and security communities.
-
----
-
-## 🔥 Technical Skills
-
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF7139?style=flat&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-blue?style=flat&logo=Metasploit&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-4A154B?style=flat&logo=Nmap&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-%2312100E.svg?style=for-the-badge&logo=tryhackme&logoColor=red)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-%23000000.svg?style=for-the-badge&logo=hackthebox&logoColor=green)
-
----
-
-## 📊 GitHub Stats
-
-![unknown1337's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unknown1337&show_icons=true&theme=radical)
-
----
-
-## 🖥️ Recent Projects
-
-- [**ReconMaster**](#): Automated subdomain enumeration and vulnerability scanning.
-- [**ExploitFinder**](#): Quick-check tool for sensitive path scanning on multiple domains.
-
----
-
-<p align="center">
-   <i>"Hack the planet!" 🌎</i>
-</p>
-
