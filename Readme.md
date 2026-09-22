@@ -8,7 +8,7 @@
 <h3 align="left">Public Work</h3>
 <ul>
   <li><strong>Unknown1337 Exploit & CVE Database</strong> &mdash; Centralized web repository for vulnerability research.</li>
-  <li><strong><a href="https://unknown1337.my.id/">unknown1337.my.id</a></strong> &mdash; Live database covering web, network, and system exploitation.</li>
+  <li><strong><a href="https://unknown1337.my.id/">unknown1337.org</a></strong> &mdash; Live database covering web, network, and system exploitation.</li>
 </ul>
 
 <h3 align="left">Core Knowledge Areas</h3>
