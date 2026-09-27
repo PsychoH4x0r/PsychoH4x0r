@@ -52,7 +52,7 @@
 <hr>
 
 <p align="left">
-  <a href="https://unknown1337.my.id/">
-    <img src="https://img.shields.io/badge/Website-unknown1337.my.id-333?style=flat" alt="Website">
+  <a href="https://unknown1337.org/">
+    <img src="https://img.shields.io/badge/Website-unknown1337.org-333?style=flat" alt="Website">
   </a>
 </p>
